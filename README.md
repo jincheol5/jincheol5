@@ -5,7 +5,7 @@
 
 #### Paper
 - [Neural Execution for Temporal Reachability Prediction](http://www.dcollection.net/handler/sejong/200000953223)
-- [TPVis: A Temporal Path Visualization System for Intuitive Understanding of Information Diffusion inside Temporal Networks](https://github.com/jincheol5/TPVis)
+- [TPVis: A Temporal Path Visualization System for Intuitive Understanding of Information Diffusion inside Temporal Networks](https://ieeexplore.ieee.org/document/11071708)
 - [MR-FoodCoach: Enabling a convenience store on mixed reality space for healthier purchases](https://ieeexplore.ieee.org/document/9974511)
 
 #### 기타
