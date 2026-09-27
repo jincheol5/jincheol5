@@ -44,6 +44,8 @@
 > 석사학위논문
 >
 > 게재일자: 2026.01.27
+>
+> Paper Link: [세종대학교 학술정보원](http://sejong.dcollection.net/common/orgView/200000953223)
   
 #### TPVis: A Temporal Path Visualization System for Intuitive Understanding of Information Diffusion inside Temporal Networks.
 > IEEE Access, 주저자
