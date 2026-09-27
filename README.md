@@ -48,14 +48,14 @@
 > Paper Link: [세종대학교 학술정보원](http://sejong.dcollection.net/common/orgView/200000953223)
   
 #### TPVis: A Temporal Path Visualization System for Intuitive Understanding of Information Diffusion inside Temporal Networks.
-> IEEE Access (SCIE), 주저자
+> IEEE Access (SCIE), Research Article, 주저자
 > 
 > 게재일자: 2025.07.04
 >
 > DOI: [10.1109/ACCESS.2025.3586044](https://doi.org/10.1109/ACCESS.2025.3586044)
 
 #### MR-FoodCoach: Enabling a convenience store on mixed reality space for healthier purchases.
-> IEEE ISMAR-Adjunct (2022), 제3저자
+> 2022 IEEE ISMAR-Adjunct, Demo Paper, 제3저자
 > 
 > 발표일자: 2022.10.19
 >
@@ -92,6 +92,15 @@
 
 <br>
 
+### 📁 참여 창업과제
+#### 건강 식생활 지원을 위한 식품 정보 DB 기반 맞춤 건강 코칭 앱 개발
+> 참여기간: 2025.09~2026.01
+
+> 참여역할:
+  > - LLM 기반 식품 이미지 내 영양성분 정보 ETL 자동화 파이프라인 설계 및 개발
+
+<br>
+
 ### 💳 자격증
 > 정보처리기사(2026.09)
 > 
@@ -102,6 +111,4 @@
 <br>
 
 ### 🎸 기타
-> [Capstone Design](https://github.com/KOCOMONG) ([youtube](https://www.youtube.com/watch?v=hOhttZUQ6WM))
-> 
-> [Laboratory Github](https://github.com/dfpl)
+> [캡스톤 디자인 프로젝트](https://github.com/KOCOMONG) ([youtube](https://www.youtube.com/watch?v=hOhttZUQ6WM))
