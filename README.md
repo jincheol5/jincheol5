@@ -41,21 +41,21 @@
 
 ### 📰 논문
 #### Neural Execution for Temporal Reachability Prediction.
-> 석사학위논문
+> 세종대학교 대학원, 석사학위논문
 >
 > 게재일자: 2026.01.27
 >
 > Paper Link: [세종대학교 학술정보원](http://sejong.dcollection.net/common/orgView/200000953223)
   
 #### TPVis: A Temporal Path Visualization System for Intuitive Understanding of Information Diffusion inside Temporal Networks.
-> IEEE Access, 주저자
+> IEEE Access (SCIE), 주저자
 > 
 > 게재일자: 2025.07.04
 >
 > DOI: [10.1109/ACCESS.2025.3586044](https://doi.org/10.1109/ACCESS.2025.3586044)
 
 #### MR-FoodCoach: Enabling a convenience store on mixed reality space for healthier purchases.
-> IEEE ISMAR-Adjunct(2022), 3저자
+> IEEE ISMAR-Adjunct (2022), 제3저자
 > 
 > 발표일자: 2022.10.19
 >
