@@ -2,9 +2,7 @@
 
 <br>
 
-### 📃 이력서 & 포트폴리오
-> [CV](https://github.com/jincheol5/CV)
-> 
+### 📃 포트폴리오
 > [Portfolio](https://github.com/jincheol5/Portfolio)
 
 <br>
